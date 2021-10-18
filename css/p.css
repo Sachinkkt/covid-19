@@ -350,7 +350,10 @@ header.sticky{
     font-size: 2rem;
     color:var(--blue);
 }
-
+#bg
+{
+    opacity: 0.1;
+}
 .footer{
     background:url(https://cdn.pixabay.com/photo/2020/04/02/19/11/covid-19-4996393_960_720.png) no-repeat ;
     background-size: cover;
