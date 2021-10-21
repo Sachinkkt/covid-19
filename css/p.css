@@ -350,10 +350,7 @@ header.sticky{
     font-size: 2rem;
     color:var(--blue);
 }
-#bg
-{
-    opacity: 1;
-}
+
 .footer{
     background:url(https://www.coar-repositories.org/files/covid-19-4996393_1280.png) no-repeat ;
     background-size: cover;
