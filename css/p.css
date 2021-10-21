@@ -355,7 +355,7 @@ header.sticky{
     opacity: 1;
 }
 .footer{
-    background:url(IMG_20211021_195641.jpg) no-repeat ;
+    background:url("img/IMG_20211021_195641.jpg") no-repeat ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
