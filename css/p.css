@@ -352,7 +352,7 @@ header.sticky{
 }
 
 .footer{
-    background:url(https://www.coar-repositories.org/files/covid-19-4996393_1280.png) no-repeat ;
+    background:url("https://grm.digital/heroes-of-covid19/memory-assets/svgs/intro.svg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
