@@ -100,7 +100,7 @@ header.sticky{
 
 .home .content{
     text-align: center;
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 
 .home .content h1{
@@ -121,7 +121,7 @@ header.sticky{
     background:var(--blue);
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
-    margin-top: 1rem;
+    margin-top: 3rem;
     font-size: 1.7rem;
 }
 
