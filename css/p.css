@@ -301,13 +301,11 @@ header.sticky{
     border-top: .1rem solid rgba(0,0,0,.1);
     padding:1rem;
     margin-top: 1rem;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .doctor .box-container .box .share a{
     border-radius: 50%;
-    height: 4.5rem;
+    height: 4rem;
     width:4.5rem;
     line-height: 4.5rem;
     font-size: 2rem;
