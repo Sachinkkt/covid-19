@@ -310,7 +310,7 @@ header.sticky{
     line-height: 4.5rem;
     font-size: 2rem;
     margin: .4rem;
-    background:#eee;
+    background:rgb(57, 58, 57);
     color:var(--blue);
 }
 
