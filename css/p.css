@@ -301,6 +301,7 @@ header.sticky{
     border-top: .1rem solid rgba(0,0,0,.1);
     padding:1rem;
     margin-top: 1rem;
+    display: flex;
     flex-wrap: wrap;
 }
 
